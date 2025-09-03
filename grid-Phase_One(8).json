@@ -1,11 +1,4 @@
 {
-  "Home & Trades|Plumber": {
-    "owner": "JOHN PLUMBER",
-    "company": "JONS PLUMBING",
-    "desc": "This is a test",
-    "url": "www.johnsplumbing.com",
-    "claimed": true
-  },
   "Retail & Lifestyle|Restaurant / Café": {
     "owner": "Chef Richie",
     "company": "MTK Fresh Eats",
