@@ -160,8 +160,56 @@
   "Marketing & Creative|Branding Coach": {},
   "Marketing & Creative|Copywriter": {},
   "Marketing & Creative|Podcaster": {},
-  "Marketing & Creative|Advertising Agency": {}
+  "Marketing & Creative|Advertising Agency": {},
+
+  "Legal Services|Personal Injury Lawyer": {},
+  "Legal Services|Family / Divorce Lawyer": {},
+  "Legal Services|Criminal Defense Lawyer": {},
+  "Legal Services|Real Estate Attorney": {},
+  "Legal Services|Business / Corporate Attorney": {},
+  "Legal Services|Employment / Labor Lawyer": {},
+  "Legal Services|Immigration Lawyer": {},
+  "Legal Services|Estate Planning / Wills & Trusts": {},
+  "Legal Services|Tax Lawyer": {},
+  "Legal Services|Intellectual Property Lawyer": {},
+
+  "Contractors & Building Trades|Commercial Construction": {},
+  "Contractors & Building Trades|Excavation / Site Work": {},
+  "Contractors & Building Trades|Demolition": {},
+  "Contractors & Building Trades|Roofing Contractor (Commercial)": {},
+  "Contractors & Building Trades|Steel / Welding Contractor": {},
+  "Contractors & Building Trades|Heavy Equipment Rentals": {},
+
+  "Media & Communications|Public Relations": {},
+  "Media & Communications|Podcast Host / Producer": {},
+  "Media & Communications|Radio / TV Advertising Rep": {},
+  "Media & Communications|Event Promoter": {},
+  "Media & Communications|Influencer / Blogger": {},
+  "Media & Communications|Content Writer": {},
+
+  "Automotive & Transport|Auto Sales (Dealership)": {},
+  "Automotive & Transport|Car Wash / Detailing": {},
+  "Automotive & Transport|Tire Shop": {},
+  "Automotive & Transport|Transmission Specialist": {},
+  "Automotive & Transport|Motorcycle Shop": {},
+  "Automotive & Transport|Boat Repair / Marine Service": {},
+
+  "Medical & Healthcare|Primary Care Physician": {},
+  "Medical & Healthcare|Dentist": {},
+  "Medical & Healthcare|Orthodontist": {},
+  "Medical & Healthcare|Pediatrician": {},
+  "Medical & Healthcare|Dermatologist": {},
+  "Medical & Healthcare|Eye Doctor / Optometrist": {},
+  "Medical & Healthcare|Urgent Care Center": {},
+  "Medical & Healthcare|Medical Equipment Supplier": {},
+
+  "Pets & Animals|Pet Store": {},
+  "Pets & Animals|Dog Walker / Pet Sitter": {},
+  "Pets & Animals|Animal Rescue / Shelter": {},
+  "Pets & Animals|Boarding / Kennel": {},
+  "Pets & Animals|Pet Trainer": {}
 }
+
 {
   "Retail & Lifestyle|Restaurant / Café": {
     "owner": "Chef Richie",
