@@ -1,12 +1,5 @@
 {
-  "Home & Trades|Plumber": {
-    "owner": "John Doe",
-    "company": "John Doe Plumbing",
-    "desc": "John has been a plumber for 30 years",
-    "url": "www.johndoeplumbing.com",
-    "claimed": true
-  },
-  "Retail & Lifestyle|Restaurant / Café": {
+"Retail & Lifestyle|Restaurant / Café": {
     "owner": "Chef Richie",
     "company": "MTK Fresh Eats",
     "desc": "Chef-prepped meals ready for pickup & delivery.",
