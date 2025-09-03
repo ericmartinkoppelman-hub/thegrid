@@ -1,0 +1,16 @@
+{
+  "Home & Trades|Plumber": {
+    "owner": "JOE BLOE",
+    "company": "TEST",
+    "desc": "This is a test",
+    "url": "www.joebloeplumbing.com",
+    "claimed": true
+  },
+  "Retail & Lifestyle|Restaurant / Café": {
+    "owner": "Chef Richie",
+    "company": "MTK Fresh Eats",
+    "desc": "Chef-prepped meals ready for pickup & delivery.",
+    "url": "https://mtkfresh.com",
+    "claimed": true
+  }
+}
